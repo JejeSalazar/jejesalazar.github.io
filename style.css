@@ -1,18 +1,50 @@
+.navbar {
+  background-color: #0d1a26;
+}
 .jumbotron {
-  padding-top: 6rem;
-  background-color: #e2edff;
+  padding-top: 20rem;
+  padding-bottom: 30rem;
+}
+
+#about {
+  padding-top: 8rem;
+  padding-bottom: 30rem;
 }
 
 #projects {
-  padding-top: 5rem;
-  background-color: #e2edff;
+  padding-top: 8rem;
+  padding-bottom: 30rem;
 }
 
 #contact {
-  padding-top: 5rem;
-  background-color: #ffffff;
+  padding-top: 8rem;
+  padding-bottom: 30rem;
 }
 
+.btn {
+  background-color: #e67300;
+}
+
+.footer {
+  background-color: #0d1a26;
+}
+
+.maintext {
+  color: #b35900;
+  text-shadow: 2px 2px #b35900;
+}
+
+.secondtext {
+  color: #ffffff;
+}
+
+.container2 {
+  margin-left: 8rem;
+  margin-right: 8rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
 section {
   padding-top: 6rem;
+  background-color: #142739;
 }
